@@ -1,2 +1,2 @@
 #!/usr/bin/env python
-print ("Hello Webhook")
+print ("Hello Webhook. It's cool")
